@@ -8,7 +8,7 @@ Hi, I'm Sporidium.eth ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 </p>
 <hr/>
 <samp>
-Dabbling in web3 and exploring the metaverse. Want to be of something bigger than myself that can bring people together and learn from each other's expeiece
+Dabbling in web3 and exploring the metaverse. Want to be of something bigger than myself that can bring people together and learn from each other's experience.
 </samp>
 <br/>
 <br/>

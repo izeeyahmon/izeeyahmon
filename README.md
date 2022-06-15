@@ -4,7 +4,7 @@ Hi, I'm Sporidium.eth ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Web3%20|%20Art%20|%20AI/ML%20Enthusiast;Perpetual%20Progress&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Web3%20|%20Art%20|%20Anime%20Enthusiast;Perpetual%20Progress&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>

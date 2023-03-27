@@ -1,14 +1,14 @@
 <h1 align="center">
-Hi, I'm Sporidium.eth ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+Hi, I'm izeeyahmon.eth ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Web3%20|%20Art%20|%20Anime%20Enthusiast;Perpetual%20Progress&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Web3%20|%20Blockchain%20|%20Anime%20Enthusiast&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
-Dabbling in web3 and exploring the metaverse. Want to be of something bigger than myself that can bring people together and learn from each other's experience.
+Learning piece by piece at a time.
 </samp>
 <br/>
 <br/>

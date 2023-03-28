@@ -27,6 +27,8 @@ Learning piece by piece at a time.
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-007ACC.svg?logo=typescript&logoColor=white"></a>
+ 
 </p>
 
 ### 🗄️ Databases and Cloud Hosting

@@ -4,7 +4,7 @@ Hi, I'm izeeyahmon.eth ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;%20Web3%20|%20Blockchain+Enthusiast%20|%20WaifuLover%20&center=true&width=380&height=45"></a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Network+engineer+%3E+Developer;Blockchain+Enthusiast+%7C+Waifu+Lover;Optimizer)](https://git.io/typing-svg)
 </p>
 <hr/>
 <samp>
